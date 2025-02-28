@@ -4,7 +4,7 @@ import subprocess
 import os
 
 Infos_dev = {
-    "Version": "0.0.2",
+    "Version": "0.0.3",
     "Contributeurs" : 0,
     "maj" : "28/02/25"
 }
